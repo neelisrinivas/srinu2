@@ -1,5 +1,0 @@
-hi 
-this file is adding to git,
-
-this is trial file.
-
